@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculator-app/static/css/main.367afd64.chunk.css",
+    "main.js": "/calculator-app/static/js/main.09c2aaa7.chunk.js",
+    "main.js.map": "/calculator-app/static/js/main.09c2aaa7.chunk.js.map",
+    "runtime~main.js": "/calculator-app/static/js/runtime~main.ee496a9f.js",
+    "runtime~main.js.map": "/calculator-app/static/js/runtime~main.ee496a9f.js.map",
+    "static/js/2.fd765dae.chunk.js": "/calculator-app/static/js/2.fd765dae.chunk.js",
+    "static/js/2.fd765dae.chunk.js.map": "/calculator-app/static/js/2.fd765dae.chunk.js.map",
+    "index.html": "/calculator-app/index.html",
+    "precache-manifest.bf18ebd6b86a5606efce6d0cd663b45c.js": "/calculator-app/precache-manifest.bf18ebd6b86a5606efce6d0cd663b45c.js",
+    "service-worker.js": "/calculator-app/service-worker.js",
+    "static/css/main.367afd64.chunk.css.map": "/calculator-app/static/css/main.367afd64.chunk.css.map",
+    "static/media/index.css": "/calculator-app/static/media/Wallpaper.4a73fbf7.jpg"
+  }
+}

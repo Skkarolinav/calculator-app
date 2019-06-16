@@ -1,0 +1,10 @@
+.my-container{
+    background-image: url('assets/backgrounds/Wallpaper.jpg');
+    height: 100vh;
+}
+
+.row{
+    display: flex;
+    background: black;
+    padding: 5px;
+}

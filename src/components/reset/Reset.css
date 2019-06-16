@@ -1,0 +1,17 @@
+.button-reset{
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 30px;
+    background: linear-gradient(rgb(75, 74, 74),rgb(0, 0, 0));
+    color: white;
+    flex: 1;
+    outline: 1px solid gray;
+    cursor: pointer;
+}
+
+.button-reset:active{
+    background: linear-gradient(rgb(0, 0, 0),rgb(75, 74, 74));
+}

@@ -1,0 +1,5 @@
+@import './App.css';
+
+@import './components/result/Result.css';
+@import './components/button/Button.css';
+@import './components/reset/Reset.css';

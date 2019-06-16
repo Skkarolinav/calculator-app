@@ -1,0 +1,27 @@
+.my-button{
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 30px;
+    background: linear-gradient(lightgrey,rgb(92, 92, 92));
+    color: black;
+    flex: 1;
+    margin: 2px;
+    cursor: pointer;
+}
+
+.sign{
+    background: linear-gradient(rgba(255, 215, 142, 0.925),rgba(224, 146, 0, 0.925));
+    color: white;
+    cursor: pointer;
+}
+
+.my-button:active{
+    background: linear-gradient(rgb(119, 119, 119),rgb(63, 63, 63));
+}
+
+.sign:active{
+    background: linear-gradient(rgba(255, 178, 35, 0.925),rgba(155, 101, 0, 0.925));
+}
